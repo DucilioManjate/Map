@@ -1,0 +1,15 @@
+.disclaimer {
+    padding: 20px 40px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  @media screen and (min-width: 799px) {
+    .disclaimer-p {
+      max-width: 700px;
+      margin: 0 auto;
+      display: flex;
+    }
+  }
+  
